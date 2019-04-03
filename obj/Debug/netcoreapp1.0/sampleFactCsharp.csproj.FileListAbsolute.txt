@@ -1,0 +1,9 @@
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\bin\Debug\netcoreapp1.0\sampleFactCsharp.deps.json
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\bin\Debug\netcoreapp1.0\sampleFactCsharp.dll
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\bin\Debug\netcoreapp1.0\sampleFactCsharp.pdb
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\obj\Debug\netcoreapp1.0\sampleFactCsharp.csprojAssemblyReference.cache
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\obj\Debug\netcoreapp1.0\sampleFactCsharp.csproj.CoreCompileInputs.cache
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\obj\Debug\netcoreapp1.0\sampleFactCsharp.AssemblyInfoInputs.cache
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\obj\Debug\netcoreapp1.0\sampleFactCsharp.AssemblyInfo.cs
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\obj\Debug\netcoreapp1.0\sampleFactCsharp.dll
+C:\Users\S533708\Desktop\skill-sample-csharp-fact-master\lambda\custom\obj\Debug\netcoreapp1.0\sampleFactCsharp.pdb
